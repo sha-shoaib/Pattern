@@ -93,7 +93,7 @@ eg:-if the number is 10 it has to give the output as shown below.<br>
     <p><b>Pattern6-</b><br>
 your program should accept a number as input and print the pattern in the following way.<br>
 eg:-if the number is 10 it has to give the output as shown below.<br>you are not allowed to write any if-else<br>
-enter a number10
+enter a number10<br>
 0  <br>
 1  0  <br>
 0  1  0  <br>
